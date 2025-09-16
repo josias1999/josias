@@ -25,7 +25,7 @@
 <div align="center">
   <!-- Cards de stats -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=josias99&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=(https://github.com/josias1999)&layout=compact&theme=radical&langs_count=8" />
   
   <!-- Streak (sequência de commits) -->
   <br/>
