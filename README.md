@@ -38,39 +38,11 @@
 
 ### Cobra das contribuições
 <!-- mostra versão dark e light automaticamente -->
-![github contribution grid snake](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake](https://github.com/josias1999/TCC-atualizado/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- Contador de visitas (opcional) -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet" />
 </p>
-name: generate snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # gera todo dia às 00:00 UTC
-  workflow_dispatch:
-  push:
-    branches: ["main"]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Gerar SVGs da cobra
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: SEU_USUARIO
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publicar na branch output
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
