@@ -1,6 +1,6 @@
-# josias
+
 <!-- Cabeçalho -->
-<h1 align="center">Oi <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hand.gif" width="30"/>, eu sou SEU NOME</h1>
+<h1 align="center">Oi <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hand.gif" width="30"/>, Meu Nome é Josias</h1>
 
 <p align="center">
   <!-- Texto digitando -->
@@ -8,15 +8,15 @@
 </p>
 
 ### Sobre mim
-- 🎓 Estudo **Sistemas/Engenharia de Software**
-- 🚀 Foco em **PHP, JS, MySQL e Bootstrap**
+- 🎓 Sou **Engenharia de Software**
+- 🚀 Foco em **Html, Css, MySQL, Java, C, Python e Bootstrap**
 - 💡 Gosto de aprender e compartilhar assuntos de tecnologia
 
 ---
 
 ### Habilidades
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,mysql,bootstrap,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,mysql,bootstrap,git,github,vscode,linux" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ### Estatísticas do GitHub
 <div align="center">
   <!-- Cards de stats -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josias99&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&langs_count=8" />
   
   <!-- Streak (sequência de commits) -->
