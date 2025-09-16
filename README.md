@@ -45,3 +45,32 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet" />
 </p>
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # gera todo dia às 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gerar SVGs da cobra
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: SEU_USUARIO
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
