@@ -21,28 +21,20 @@
 
 ---
 
-### Estatísticas do GitHub
-<div align="center">
-  <!-- Cards de stats -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josias99&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/josias1999&layout=compact&theme=radical&langs_count=8" />
-  
-  <!-- Streak (sequência de commits) -->
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Sjosias1999&theme=radical&hide_border=false" />
-</div>
+##Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
+#Presentation
+Hello, my name is josias, I am a software engineering academic.
+I am looking for new knowledge in this world of technology.
+I have
+Basic knowledge in C language and HTML5
 
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josias1999&show_icons=true&theme=transparent)
 
-### Cobra das contribuições
-<!-- mostra versão dark e light automaticamente -->
-![github contribution grid snake](https://github.com/josias1999/TCC-atualizado/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake](https://github.com/josias1999/josias/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josias1999&repo=github-readme-stats)](https://github.com/josias/github-readme-stats)
 
-<!-- Contador de visitas (opcional) -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=josias1999/josias&color=blueviolet" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josias1999&hide_progress=true)](https://github.com/josias/github-readme-stats)
+
 
