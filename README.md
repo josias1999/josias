@@ -25,11 +25,11 @@
 <div align="center">
   <!-- Cards de stats -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=josias99&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=(https://github.com/josias1999)&layout=compact&theme=radical&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/josias1999&layout=compact&theme=radical&langs_count=8" />
   
   <!-- Streak (sequência de commits) -->
   <br/>
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Sjosias1999&theme=radical&hide_border=false" />
 </div>
 
 ---
@@ -39,10 +39,10 @@
 ### Cobra das contribuições
 <!-- mostra versão dark e light automaticamente -->
 ![github contribution grid snake](https://github.com/josias1999/TCC-atualizado/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake](https://github.com/josias1999/josias/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- Contador de visitas (opcional) -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=josias1999/josias&color=blueviolet" />
 </p>
 
