@@ -22,11 +22,6 @@
 ---
 
 
-#Presentation
-Hello, my name is josias, I am a software engineering academic.
-I am looking for new knowledge in this world of technology.
-I have
-Basic knowledge in C language and HTML5
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josias1999&show_icons=true&theme=transparent)
 
