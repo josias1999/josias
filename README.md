@@ -23,10 +23,3 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josias1999&show_icons=true&theme=transparent)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josias1999&repo=github-readme-stats)](https://github.com/josias/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josias1999&hide_progress=true)](https://github.com/josias/github-readme-stats)
-
-
